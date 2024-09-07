@@ -171,9 +171,9 @@ Il microcontrollore **non può** essere dotato di *bootloader*: non e' presente 
 <img src="https://github.com/TheFidax/TFX072/blob/main/Images/isp.jpg" width="1280">
 
 Per programmare il microcontrollore e' presente *una porta di programmazione ISP* con connettore JST SH6 per prevenire connessioni invertite.</br>
-Questa porta svolge la doppia funzione di **Porta ISP** e **Porta I2C** mediante il seguente schema:</br>
+I collegamenti della **Porta ISP** sono riportati nel seguente schema:</br>
 
-<img src="https://github.com/TheFidax/TFX072/blob/main/Images/isp_i2c.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX072/blob/main/Images/isp_schematic.jpg" width="1280">
 
 ------------
 
