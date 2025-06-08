@@ -161,7 +161,7 @@ I valori dei **FUSE** sono i seguenti:
 - LOW: 0x3F
 - High: 0xC7
 - Extended: 0xFF
-- LOCKBITS: 0xCF
+- LOCKBITS: 0xFF
 
 Il microcontrollore **non può** essere dotato di *bootloader*: non e' presente una porta Seriale.
 
