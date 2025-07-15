@@ -8,9 +8,9 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 
 **Codice Identificativo Progetto: TFX072**
 
-**Ultima Revisione HardWare: 1.10b**
+**Ultima Revisione HardWare: 1.21a**
 
-**Ultima Revisione FirmWare: 018**
+**Ultima Revisione FirmWare: 019**
 
 *NOTA:* Dalla revisione Hardware 1.00a e' possibile conoscere il *Seriale Progressivo* della scheda tramite lo spazio ad esso dedicato:
 <img src="https://github.com/TheFidax/TFX072/blob/main/Images/progressivo_seriale.jpg" width="1280">
