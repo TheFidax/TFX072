@@ -8,7 +8,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 
 **Codice Identificativo Progetto: TFX072**
 
-**Ultima Revisione HardWare: 1.21a**
+**Ultima Revisione HardWare: 1.21b**
 
 **Ultima Revisione FirmWare: 019**
 
@@ -121,10 +121,10 @@ L'alimentazione a 5 volt e' fornita dal chip [Microchip MCP16331](https://www.mi
 ### Condensatori PowerPack
 <img src="https://github.com/TheFidax/TFX072/blob/main/Images/powerpack.jpg" width="1280">
 
-Per sopperire a problemi di captazione di corrente e' previsto un sistema *powerpack* formato da 4 condensatori al Tantalio da 100uF con tensione **massima** di 35 volt.</br>
-I condensatori sono separati dal circuito di alimentazione da un Diodo ed un Resistore che rappresentano *il sistema di ricarica lenta*, come protezione dalle sovratensioni e' presente un diodo Zener da 27v.</br>
+Per sopperire a problemi di captazione di corrente e' previsto un sistema *powerpack* formato da 4 condensatori Polimerici Kemet, da 100uF con tensione nominale di 25 volt, la tensione massima con sui si può alimentare la scheda e' di **22 volt**.</br>
+I condensatori sono separati dal circuito di alimentazione da un Diodo ed un Resistore che rappresentano *il sistema di ricarica lenta*</br>
 
-Compatibilmente con lo spazio e' possibile aggiungere altri condensatori, *e' necessario che siano anche essi da 35v* per permettere il corretto funzionamento del sistema di protezione, tramite le piazzole ad essi dedicate.</br>
+Compatibilmente con lo spazio e' possibile aggiungere altri condensatori, *e' necessario che siano anche essi da almeno 25v*, tramite le piazzole ad essi dedicate.</br>
 
 <img src="https://github.com/TheFidax/TFX072/blob/main/Images/external_powerpack.jpg" width="1280">
 
