@@ -22,7 +22,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 * [FirmWare](#firmware)
 * [HardWare](#hardware)
 * [Caratteristiche della Scheda](#caratteristiche-della-scheda)
-* [Contattami](#Contattami)
+* [Contatti & Social](#Contatti-e-Social)
 
 ------------
 
@@ -238,7 +238,11 @@ Per garantire la massima personalizzazione, e' presente anche **una porta SUSI**
 
 ------------
 
-## Contattami
-Per curiosita' o ulteriori informazioni puoi contattarmi al seguente indirizzo email: TheFidaxContacts@gmail.com</br>
-Oppure sulla pagina Instagram: [The_Fidax_Modellismo](https://www.instagram.com/the_fidax_modellismo/).</br>
-Alcuni pezzi in esubero possono anche essere trovati sul mio profilo **Ebay***: https://www.ebay.it/sch/the_fidax/m.html</br>
+## Contatti e Social
+Per curiosita' o ulteriori informazioni puoi contattarmi tramite i seguenti canali!</br>
+Instagram ➡ https://www.instagram.com/the_fidax_modellismo/</br>
+3rotaie.eu ➡ https://www.3rotaie.eu/forum/memberlist.php?mode=viewprofile&u=1560</br>
+TrenoInCasa ➡ https://trenoincasa.forumfree.it/?act=Profile&MID=12548949</br>
+DccWorld ➡ https://dccworld.it/forum/memberlist.php?mode=viewprofile&u=5703&sid=e77894699c7ea1ac65586ba7cbad826c</br>
+
+Alcuni pezzi in esubero possono anche essere trovati sul mio profilo **Ebay**: https://www.ebay.it/sch/the_fidax/m.html</br>
